@@ -1,5 +1,7 @@
 Project 4 – Daily Stand-up Notes
 Day 1 (Monday) – Design
+
+
 Data Engineer
 What am I working on today?
 •	Profile all four datasets in DataBrew.
@@ -38,6 +40,8 @@ What is blocking me?
 •	Awaiting AWS account configuration.
 ________________________________________
 Day 2 (Tuesday) – Engineering
+
+
 Data Engineer
 What am I working on today?
 •	Build the Data Wrangler cleaning flow.
@@ -77,6 +81,8 @@ What is blocking me?
 •	None.
 ________________________________________
 Day 3 (Wednesday) – Analysis & Modelling
+
+
 Data Engineer
 What am I working on today?
 •	Support SQL debugging.
@@ -115,6 +121,8 @@ What is blocking me?
 •	None.
 ________________________________________
 Day 4 (Thursday) – Synthesis
+
+
 Data Engineer
 What am I working on today?
 •	Assist with findings validation.
